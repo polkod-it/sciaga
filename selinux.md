@@ -1,3 +1,7 @@
+## Listowanie zawartości katalogu z wymienieniem kontekstu
+```
+ls -Z
+```
 ## Zmiana kontekstu rekursywnie w całym folderze
 ```
 chcon -Rv --type=httpd_sys_rw_content_t /var/www
