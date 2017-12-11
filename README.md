@@ -4,6 +4,6 @@
 df
 ```
 ## SELinux
-[https://github.com/polkod-it/sciaga/blob/master/selinux.md](https://github.com/polkod-it/sciaga/blob/master/selinux.md)
+[selinux.md](selinux.md)
 ## tar - archiwizacja plików
-[https://github.com/polkod-it/sciaga/blob/master/tar.md](https://github.com/polkod-it/sciaga/blob/master/tar.md)
+[tar.md](tar.md)
